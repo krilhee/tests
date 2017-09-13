@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Un commentaire
+
+NAME=$1
+
+echo "Mon premier script $NAME"
+
+
+echo "Aimez-vous le PHP ? \n"
+read RESPONSE
+echo "Votre réponse : $RESPONSE"
+
